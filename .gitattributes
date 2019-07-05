@@ -1,0 +1,2 @@
+checkpoints/**.lib filter=lfs diff=lfs merge=lfs -text
+checkpoints/cm.lib filter=lfs diff=lfs merge=lfs -text
